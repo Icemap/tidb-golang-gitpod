@@ -1,0 +1,13 @@
+*~
+*.html
+.DS_Store
+package-list
+script.js
+stylesheet.css
+
+**/bin
+
+.project
+.settings
+.idea
+**/*.iml
